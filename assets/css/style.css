@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background: url("img/etoile.jpg");
+  background-size:cover;
+color: #6b6b6b;
+  }
+.happy{
+  text-align: center;
+}
+.happy img {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.style_h2{
+  color: pink;text-align: center;
+}
+img.imagepapa {
+    margin-left: 10px;
+    margin-right: auto;
+    width: 300px;
+    display: block;
+}
+.style_h3{
+      color: #5e555f;
+    margin-left: 20px;
+    font-size: small;
+}
+li {
+    list-style-type: none;
+}
